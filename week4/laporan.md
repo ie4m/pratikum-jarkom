@@ -33,7 +33,7 @@ Non-authoritative answer:
 Name:    www.mit.edu
 Address: 23.217.163.122
 ```
-![Query a record](../pratikum-jarkom/assets/image/dns_a_record.jpeg)
+![Query a record](../assets/image/dns_a_record.jpeg)
 
 **Poin Penting:**
 - DNS lokal (`10.159.118.217`) merespons query
