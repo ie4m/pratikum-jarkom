@@ -1,5 +1,11 @@
-# pratikum-jarkom
+# Praktikum Jaringan Komputer
+**Semester Genap Tahun Ajaran 2025/2026**
 
-NAMA: Moh Irham Maulana Al Sifri
-NIM: 103072400063
-KELAS: IF-04-01
+## Informasi Mata Kuliah
+
+| Item | Keterangan |
+|------|------------|
+| **Nama Mata Kuliah** | Jaringan Komputer |
+| **Program Studi** | S1 Informatika |
+| **Fakultas** | Fakultas Informatika |
+| **Universitas** | Universitas Telkom |

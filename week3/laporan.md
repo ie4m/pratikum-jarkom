@@ -2,6 +2,7 @@
 ## HTTP Protocol Analysis
 
 ### Identitas Praktikum
+| Item | Keterangan |
 |------|------------|
 | **Nama** | Moh Irham Maulana Al Sifri |
 | **NIM** | 103072400063 |
@@ -67,7 +68,7 @@ Berikut adalah langkah-langkah yang dilakukan selama praktikum Modul 3:
 ### 4.1 Basic HTTP GET/Response
 Pada percobaan pertama, diakses file HTML sederhana. Wireshark menangkap dua pesan utama: HTTP GET dari klien dan HTTP OK dari server.
 
-![update](../assets/image/basic%20git.png.jpeg)
+![git](../assets/image/basic%20git.png.jpeg)
 *Gambar 1: Tangkapan layar Wireshark menunjukkan paket HTTP GET dan Response 200 OK.*
 
 **Analisis:**
@@ -78,7 +79,7 @@ Pada percobaan pertama, diakses file HTML sederhana. Wireshark menangkap dua pes
 ### 4.2 HTTP Conditional GET
 Pada percobaan ini, halaman diakses dua kali. Akses kedua memanfaatkan cache browser.
 
-![update](../assets/image/conditional.png.jpeg)
+![conditional](../assets/image/conditional.png.jpeg)
 *Gambar 2: Tangkapan layar Wireshark menunjukkan header If-Modified-Since dan respons 304.*
 
 **Analisis:**
