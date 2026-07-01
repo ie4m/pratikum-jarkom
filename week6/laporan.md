@@ -115,7 +115,7 @@ EstRTTₙ = 0.875 × EstRTTₙ₋₁ + 0.125 × SampleRTTₙ
 
 ### 6.3.5 Flow Control & Window Size
 
-![TCP Window](assets/tcp_window.png)
+![TCP Window](../assets/image/tcp_window.jpeg)
 
 **Window Size (Frame 1236):**
 ```
